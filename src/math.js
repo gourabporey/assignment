@@ -23,3 +23,4 @@ const isOdd = function(a) {
 }
 
 exports.add = add;
+exports.subtract = subtract;

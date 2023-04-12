@@ -2,6 +2,7 @@ const test = require("../lib/testing.js");
 const math = require("../src/math.js");
 
 const add = math.add;
+const subtract = math.subtract;
 
 const testArithematicOperations = function() {
   test.assertEquality(2, add(1, 1), "1 + 1 should be 2");
