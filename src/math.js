@@ -25,3 +25,4 @@ const isOdd = function(a) {
 exports.add = add;
 exports.subtract = subtract;
 exports.multiply = multiply;
+exports.isEven = isEven;
